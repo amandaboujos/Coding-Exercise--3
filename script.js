@@ -1,6 +1,6 @@
 function start(){
 
-    //$("body").css("background-color", "pink");
+    $("body").css("background-color", "pink");
 
 }
 
